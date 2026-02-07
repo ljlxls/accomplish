@@ -299,7 +299,7 @@ packages/
 
 欢迎贡献！随时提交 PR。
 
-**贡献者：** 李金
+**贡献者：** 西安微步科技公司 总设计师 李金
 
 ```bash
 # Fork → Clone → Branch → Commit → Push → PR
