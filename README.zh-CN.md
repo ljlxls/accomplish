@@ -299,6 +299,8 @@ packages/
 
 欢迎贡献！随时提交 PR。
 
+**贡献者：** 李金
+
 ```bash
 # Fork → Clone → Branch → Commit → Push → PR
 git checkout -b feature/amazing-feature
